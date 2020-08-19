@@ -5,7 +5,7 @@
 ### [test_data.ipynb](https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/test_data.ipynb)
 final_main.mat
 ,contest_labeling_취합.xlsx 파일에서 magnitude, phase, label값 .npy 로 저장
-<br>
+<br><br>
 
 ### [validation_dataset.ipynb](https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/validation_dataset.ipynb)
 magnitude, pahse, label값  변환 후 x_data.pt, y_label.pt로 저장
