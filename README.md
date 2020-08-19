@@ -7,7 +7,8 @@
 
 ### [validation_dataset.ipynb](https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/validation_dataset.ipynb)
 <br>
-********
+
+***************
 
 ### Screenshots
 <!--
@@ -23,11 +24,11 @@ https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug_noise2(3
         
    [data_augumentation_0818](https://github.com/Kang-Dong-Hwi/data-augmentation-0818) 
         
-   <br> timestretch + reversed data  </td>
+   timestretch + reversed data  </td>
   </tr>
 
   <tr>
-    <td> <img src="https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug2_2(42.4).png", height=230px, width=250px>  </td>
+    <td> <img src="https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug2_2(42.4).png", height=400px, width=350px>  </td>
     
  </tr>
   
@@ -45,7 +46,7 @@ https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug_noise2(3
   </tr>
 
   <tr>
-    <td> <img src="https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug_noise(38.2).png", height=230px, width=250px>  </td>
+    <td> <img src="https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug_noise(38.2).png", height=400px, width=350px>  </td>
     
  </tr>
   
@@ -63,7 +64,7 @@ https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug_noise2(3
   </tr>
 
   <tr>
-    <td> <img src="https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug_noise2(34).png", height=230px, width=250px>  </td>
+    <td> <img src="https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug_noise2(34).png", height=400px, width=350px>  </td>
     
  </tr>
   
