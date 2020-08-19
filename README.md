@@ -3,7 +3,7 @@
 <br>
 
 ### [test_data.ipynb](https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/test_data.ipynb)
-<br><br>
+<br> 
 
 ### [validation_dataset.ipynb](https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/validation_dataset.ipynb)
 <br>
@@ -19,7 +19,8 @@ https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug_noise2(3
 <table>
 
   <tr> 
-      <td ><br><br>  [data_augumentation_0818](https://github.com/Kang-Dong-Hwi/data-augmentation-0818) <br> timestretch + reversed data  </td>
+      <td ><br><br>  
+        [data_augumentation_0818](https://github.com/Kang-Dong-Hwi/data-augmentation-0818) <br> timestretch + reversed data  </td>
   </tr>
 
   <tr>
