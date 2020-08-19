@@ -20,7 +20,8 @@ https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug_noise2(3
 
   <tr> 
       <td ><br><br>  
-        [data_augumentation_0818](https://github.com/Kang-Dong-Hwi/data-augmentation-0818) 
+        
+   [data_augumentation_0818](https://github.com/Kang-Dong-Hwi/data-augmentation-0818) 
         
    <br> timestretch + reversed data  </td>
   </tr>
