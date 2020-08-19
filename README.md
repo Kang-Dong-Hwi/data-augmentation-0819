@@ -3,7 +3,7 @@
 <br>
 ### [test_data.ipynb](https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/test_data.ipynb)
 <br><br>
-###[validation_dataset.ipynb](https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/validation_dataset.ipynb)
+### [validation_dataset.ipynb](https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/validation_dataset.ipynb)
 <br>
 ********
 
@@ -28,8 +28,8 @@ https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug_noise2(3
   <tr> 
       <td >
        
-       accuracy: 42.4%<br>
-      </td>
+   accuracy: 42.4%<br>
+  </td>
   </tr>
   
   
@@ -44,10 +44,10 @@ https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug_noise2(3
  </tr>
   
   <tr> 
-      <td >
+      <td>
        
-       accuracy: 38.2%<br>
-      </td>
+   accuracy: 38.2% <br>
+   </td>
   </tr>
   
   
@@ -64,8 +64,8 @@ https://github.com/Kang-Dong-Hwi/data-augmentation-0819/blob/master/aug_noise2(3
   <tr> 
       <td >
        
-       accuracy: 34.0%<br>
-      </td>
+   accuracy: 34.0% <br>
+   </td>
   </tr>
   
   
